@@ -68,17 +68,11 @@ education:
     time: 2022 - 2023
     details: |
       Portfolio of 5 projects, detailed below.
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Master of Arts Hons in French (Grade: 2:2)
+    university: University of St Andrews
+    time: 2006 - 2010
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Minors: Italian, Linguistics, Latin, Social Anthropology
 
 experiences:
   title: Experiences
