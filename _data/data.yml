@@ -63,15 +63,17 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Diploma in Full-Stack Software Development (Grade: Merit)
+  - degree: Diploma in Full-Stack Software Development
     university: Code Institute
     time: 2022 - 2023
     details: |
+      Grade: Merit /n
       Portfolio of 5 projects, detailed below.
-  - degree: Master of Arts Hons in French (Grade: 2:2)
+  - degree: Master of Arts Hons in French
     university: University of St Andrews
     time: 2006 - 2010
     details: |
+      Grade: 2:2 /n
       Minors: Italian, Linguistics, Latin, Social Anthropology
 
 experiences:
@@ -134,6 +136,12 @@ certifications:
     credentialname: Star Wars Hackathon
     details: |
       My second hackathon with Code Institute, towards the end of my diploma, I was able to help with the game functionality using Python.
+  - name: 5 Day Coding Challenge
+    start: September 2021
+    end: September 2021
+    organization: Code Institute
+    details: |
+      My first taste of coding, with a score of 90% I knew this was the right thing for me!
 
 projects:
   title: Projects
