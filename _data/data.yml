@@ -57,8 +57,8 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    I’m a web developer with a diploma in full-stack software development. /n
-    With a 10-year career in marketing and business development, I am now living out my passion in the tech world. /n
+    I’m a web developer with a diploma in full-stack software development. <br>
+    With a 10-year career in marketing and business development, I am now living out my passion in the tech world. <br>
     Internationally-minded and culturally open, I grew up in Germany and Scotland and have been living in France since 2011.
 education:
   title: Education
@@ -67,13 +67,13 @@ education:
     university: Code Institute
     time: 2022 - 2023
     details: |
-      Grade: Merit /n
+      Grade: Merit <br>
       Portfolio of 5 projects, detailed below.
   - degree: Master of Arts Hons in French
     university: University of St Andrews
     time: 2006 - 2010
     details: |
-      Grade: 2:2 /n
+      Grade: 2:2 <br>
       Minors: Italian, Linguistics, Latin, Social Anthropology
 
 experiences:
