@@ -63,17 +63,11 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Diploma in Full-Stack Software Development (Grade: Merit)
+    university: Code Institute
+    time: 2022 - 2023
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Portfolio of 5 projects, detailed below.
   - degree: BSc in Applied Mathematics
     university: Bristol University
     time: 2007 - 2011
