@@ -146,11 +146,11 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    I created this portfolio of 5 projects during my full-stack development diploma with Code Institute.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Horizon GamePedia
+    link: "https://github.com/AlexaH88/horizon-gamepedia"
+    tagline: "Portfolio Project 1: HTML & CSS. Grade: Distinction"
 
   - title: DevStudio
     link: "#"
