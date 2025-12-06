@@ -151,23 +151,23 @@ projects:
   assignments:
   - title: Horizon GamePedia
     link: "https://github.com/AlexaH88/horizon-gamepedia"
-    tagline: "My first portfolio project, using HTML and CSS to create a static front-end website. I chose the Horizon Zero Dawn and Horizon Forbidden West video games by Guerrilla Games as the theme, as I'm a massive fan."
+    tagline: "Grade: Distinction. My first project, using HTML and CSS to create a static front-end website. I chose the Horizon Zero Dawn and Horizon Forbidden West video games by Guerrilla Games as the theme, as I'm a massive fan."
 
   - title: PiaNotes
     link: "https://github.com/AlexaH88/pianotes"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Grade: Merit. My second project, using HTML, CSS and JavaScript to build an interactive front-end site. Being a music lover, I created a playable virtual piano, including a minigame challenge based on Simon Says."
 
   - title: Harry Potter Adventure Game
     link: "https://github.com/AlexaH88/harry-potter-adventure-game"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Grade: Merit. "
 
   - title: Anthemology 
     link: "https://github.com/AlexaH88/anthemology"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Grade: Merit. "
 
   - title: Gamer Guild
     link: "https://github.com/AlexaH88/gamer-guild"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Grade: Pass. "
 
 skills:
   title: Skills &amp; Proficiency
