@@ -159,15 +159,15 @@ projects:
 
   - title: Harry Potter Adventure Game
     link: "https://github.com/AlexaH88/harry-potter-adventure-game"
-    tagline: "Grade: Merit. My third project, using Python to build a command-line application. Having always loved video games, I created a Harry Potter themed text-based adventure game."
+    tagline: "Grade: Merit. My third project, using Python to build a command-line application. Having always loved video games, I made a Harry Potter themed text-based adventure game."
 
   - title: Anthemology 
     link: "https://github.com/AlexaH88/anthemology"
-    tagline: "Grade: Merit. My fourth project, creating a full-stack site with Django and PostgreSQL. Singing being a passion of mine, I created a song lyrics app, including account registration and CRUD functionality on song entries."
+    tagline: "Grade: Merit. My fourth project, creating a full-stack site with Django and PostgreSQL. Singing being a passion of mine, I decided on a song lyrics app, including account registration and CRUD functionality on song entries."
 
   - title: Gamer Guild
     link: "https://github.com/AlexaH88/gamer-guild"
-    tagline: "Grade: Pass. "
+    tagline: "Grade: Pass. My fifth project, building a content-sharing web application using React on the front-end and the Django Rest Framework on the back-end to create an API. My video game passion came to the fore again to make a social media app for the gaming community, allowing players to share videos and create events."
 
 skills:
   title: Skills &amp; Proficiency
